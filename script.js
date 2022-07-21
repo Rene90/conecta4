@@ -1,4 +1,4 @@
-var player1 = prompt("Jugador Uno, ingresa tu nombre, seras azul");
+var player1 = prompt("Jugador Uno, ingresa tu nombre, seras azul, y estoy modificando para demostrar");
 var player1Color = 'rgb(86, 151, 255)';
 
 var player2 = prompt("Jugador Dos, ingresa tu nombre seras rojo");
